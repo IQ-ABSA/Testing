@@ -1,0 +1,105 @@
+id: 8fbb66af
+diagramElements:
+  c88c0a58:
+    elementObjectId: 5829ac4f
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '126'
+    boundsY: '210'
+    boundsWidth: '575'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      46aa582b: {elementObjectId: 6ce2387b, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 21c533ec}
+      4b1b2cd2: {elementObjectId: '1730e970', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 27fa6183}
+      c1f09c3b: {elementObjectId: 8ce9ba2f, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: ace4f2ca}
+      b70484c3: {elementObjectId: 2cb6f17a, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: dc971898}
+  bfaa0eff:
+    elementObjectId: 01f16a87
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '21'
+    boundsY: '38'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    parentElementId: f92ec60c
+    sourceRelationshipIds:
+      258902ae: {elementObjectId: 5db70f56, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c88c0a58}
+  1c849f22:
+    elementObjectId: c02c7693
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '154'
+    boundsY: '38'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    parentElementId: f92ec60c
+    sourceRelationshipIds:
+      aec8ef09: {elementObjectId: '93269885', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c88c0a58}
+  21c533ec: {elementObjectId: dd05dfb0, fillColour: null, font: null, fontColour: null,
+    boundsX: '21', boundsY: '38', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: fc5e4c45}
+  27fa6183: {elementObjectId: f5e89e53, fillColour: null, font: null, fontColour: null,
+    boundsX: '154', boundsY: '38', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: fc5e4c45}
+  ace4f2ca: {elementObjectId: ffbafe2d, fillColour: null, font: null, fontColour: null,
+    boundsX: '287', boundsY: '38', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: fc5e4c45}
+  dc971898: {elementObjectId: c300aba3, fillColour: null, font: null, fontColour: null,
+    boundsX: '420', boundsY: '38', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: fc5e4c45}
+diagramSpecificElements:
+  f92ec60c: {fillColour: '#f0ffff', font: null, fontColour: null, boundsX: '128',
+    boundsY: '53', boundsWidth: '573', boundsHeight: '140', textAlignment: '2', textPosition: '0',
+    objectName: Data In, objectType: DiagramModelGroup, objectDocumentation: ''}
+  fc5e4c45: {fillColour: '#f0ffff', font: null, fontColour: null, boundsX: '128',
+    boundsY: '280', boundsWidth: '573', boundsHeight: '140', textAlignment: '2', textPosition: '0',
+    objectName: Data Out, objectType: DiagramModelGroup, objectDocumentation: ''}
+  865a4008: {fillColour: null, font: null, fontColour: null, boundsX: '91', boundsY: '10',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '8', parentElementId: fc5e4c45}
+  6ed031b1: {fillColour: null, font: null, fontColour: null, boundsX: '224', boundsY: '10',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '9', parentElementId: fc5e4c45}
+  088bad3d: {fillColour: null, font: null, fontColour: null, boundsX: '357', boundsY: '10',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '10', parentElementId: fc5e4c45}
+  3d00cab5: {fillColour: null, font: null, fontColour: null, boundsX: '490', boundsY: '10',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '11', parentElementId: fc5e4c45}
+  e79d63fc: {fillColour: null, font: null, fontColour: null, boundsX: '217', boundsY: '175',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '4'}
+  174c3e29: {fillColour: null, font: null, fontColour: null, boundsX: '350', boundsY: '175',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '6'}
+name: Application Landscape
+documentation: ''
+folderPath: Transform
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

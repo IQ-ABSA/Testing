@@ -1,0 +1,25 @@
+id: b2a75885
+diagramElements:
+  0c7751d3: {elementObjectId: c300aba3, fillColour: null, font: null, fontColour: null,
+    boundsX: '112', boundsY: '49', boundsWidth: '652', boundsHeight: '365', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  68dab11e: {elementObjectId: e8b2a2af, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '29', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 0c7751d3}
+  eb9f64ff: {elementObjectId: 040e5a06, fillColour: null, font: null, fontColour: null,
+    boundsX: '15', boundsY: '103', boundsWidth: '511', boundsHeight: '192', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 0c7751d3}
+  11a597bf: {elementObjectId: c143debd, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '262', boundsHeight: '138', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: eb9f64ff}
+  68afdc7c: {elementObjectId: c2c87ca6, fillColour: null, font: null, fontColour: null,
+    boundsX: '15', boundsY: '301', boundsWidth: '504', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 0c7751d3}
+diagramSpecificElements: {}
+name: Application Composition
+documentation: ''
+folderPath: ODP
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

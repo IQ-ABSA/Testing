@@ -1,0 +1,55 @@
+id: d7ad5597
+diagramElements:
+  e01f2d43: {elementObjectId: 5829ac4f, fillColour: null, font: null, fontColour: null,
+    boundsX: '56', boundsY: '42', boundsWidth: '596', boundsHeight: '442', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  f4630878: {elementObjectId: 5e44c966, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '568', boundsHeight: '78', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: e01f2d43}
+  2205cce7: {elementObjectId: 36fa0c9e, fillColour: null, font: null, fontColour: null,
+    boundsX: '21', boundsY: '21', boundsWidth: '120', boundsHeight: '43', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: f4630878}
+  837587fd: {elementObjectId: 2afa7ce8, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '119', boundsWidth: '568', boundsHeight: '204', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: e01f2d43}
+  100cbf33: {elementObjectId: 736e6b28, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '281', boundsHeight: '162', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 837587fd}
+  34e41ed1: {elementObjectId: a50a9575, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '35', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 100cbf33}
+  8c2b0610: {elementObjectId: 347f9cf2, fillColour: null, font: null, fontColour: null,
+    boundsX: '147', boundsY: '35', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 100cbf33}
+  8040a9de: {elementObjectId: efee4a08, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '98', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 100cbf33}
+  b8a3a724: {elementObjectId: ac7a97eb, fillColour: null, font: null, fontColour: null,
+    boundsX: '147', boundsY: '98', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 100cbf33}
+  b4cbbf3a: {elementObjectId: bde603c5, fillColour: null, font: null, fontColour: null,
+    boundsX: '434', boundsY: '56', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 837587fd}
+  f35f9221: {elementObjectId: 3c594ae3, fillColour: null, font: null, fontColour: null,
+    boundsX: '434', boundsY: '126', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 837587fd}
+  77eb3566: {elementObjectId: 0bfbec87, fillColour: null, font: null, fontColour: null,
+    boundsX: '308', boundsY: '126', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 837587fd}
+  5e30b429: {elementObjectId: 7e21c4b4, fillColour: null, font: null, fontColour: null,
+    boundsX: '308', boundsY: '56', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 837587fd}
+  '8289e275': {elementObjectId: e0db752d, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '336', boundsWidth: '568', boundsHeight: '92', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: e01f2d43}
+  9cd6d95a: {elementObjectId: d9dd6d98, fillColour: null, font: null, fontColour: null,
+    boundsX: '434', boundsY: '21', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: '8289e275'}
+diagramSpecificElements: {}
+name: Application Composition
+documentation: ''
+folderPath: Transform
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

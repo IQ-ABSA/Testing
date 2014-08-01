@@ -1,0 +1,35 @@
+id: bdfacb76
+diagramElements:
+  c1fd5c33: {elementObjectId: c02c7693, fillColour: null, font: null, fontColour: null,
+    boundsX: '21', boundsY: '38', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 58a1950d}
+  fc46d826:
+    elementObjectId: a7a22a2a
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '21'
+    boundsY: '35'
+    boundsWidth: '197'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      4fcdef6c: {elementObjectId: f347219f, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c1fd5c33}
+diagramSpecificElements:
+  58a1950d: {fillColour: '#f0ffff', font: null, fontColour: null, boundsX: '21', boundsY: '108',
+    boundsWidth: '197', boundsHeight: '140', textAlignment: '2', textPosition: '0',
+    objectName: Data Out, objectType: DiagramModelGroup, objectDocumentation: ''}
+  84573beb: {fillColour: null, font: null, fontColour: null, boundsX: '91', boundsY: '10',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '3', parentElementId: 58a1950d}
+name: Application Landscape
+documentation: ''
+folderPath: IMEX
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

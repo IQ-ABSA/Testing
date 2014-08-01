@@ -1,0 +1,45 @@
+id: 6d1d36d9
+diagramElements:
+  c58b59e9: {elementObjectId: a85eb670, fillColour: null, font: null, fontColour: null,
+    boundsX: '295', boundsY: '112', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  dc2c1a68:
+    elementObjectId: fca049c0
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '295'
+    boundsY: '203'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      58d129f2: {elementObjectId: f9155b9b, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c58b59e9}
+  d2326140:
+    elementObjectId: 7f1d4100
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '295'
+    boundsY: '301'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      d2d77638: {elementObjectId: 204ab47c, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: dc2c1a68}
+diagramSpecificElements: {}
+name: Application Functional Realisation
+documentation: ''
+folderPath: PrintShop
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

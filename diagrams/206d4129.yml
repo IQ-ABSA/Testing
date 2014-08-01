@@ -1,0 +1,25 @@
+id: 206d4129
+diagramElements:
+  3509a551: {elementObjectId: f5e89e53, fillColour: null, font: null, fontColour: null,
+    boundsX: '154', boundsY: '77', boundsWidth: '554', boundsHeight: '183', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  381aa566: {elementObjectId: b1cd6175, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '512', boundsHeight: '141', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 3509a551}
+  '11285438': {elementObjectId: c62688f1, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '281', boundsHeight: '93', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: 381aa566}
+  3084d4ea: {elementObjectId: f54f5106, fillColour: null, font: null, fontColour: null,
+    boundsX: '14', boundsY: '28', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: '11285438'}
+  2db453bc: {elementObjectId: 46f922b3, fillColour: null, font: null, fontColour: null,
+    boundsX: '147', boundsY: '28', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1', parentElementId: '11285438'}
+diagramSpecificElements: {}
+name: Application Composition
+documentation: ''
+folderPath: MS Exchange
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

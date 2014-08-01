@@ -1,0 +1,77 @@
+id: 142914c3
+diagramElements:
+  a1191741: {elementObjectId: 1f2e9031, fillColour: null, font: null, fontColour: null,
+    boundsX: '175', boundsY: '70', boundsWidth: '260', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  0c287a10:
+    elementObjectId: 44b60903
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '176'
+    boundsY: '162'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      437b6764: {elementObjectId: ed2aa814, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: a1191741}
+  cca19627:
+    elementObjectId: b02569b3
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '315'
+    boundsY: '162'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      b2b9d65e: {elementObjectId: '61852713', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: a1191741}
+  00213fa2:
+    elementObjectId: ec09998e
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '176'
+    boundsY: '252'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      0b4ba516: {elementObjectId: f4ac867a, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 0c287a10}
+  fafc65e5:
+    elementObjectId: b2135e11
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '315'
+    boundsY: '252'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      5336867c: {elementObjectId: a98d79f9, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: cca19627}
+diagramSpecificElements: {}
+name: Application Functional Realisation
+documentation: ''
+folderPath: MS Exchange
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

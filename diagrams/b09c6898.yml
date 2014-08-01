@@ -1,0 +1,67 @@
+id: b09c6898
+diagramElements:
+  2145c2cc:
+    elementObjectId: 429a9615
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '343'
+    boundsY: '112'
+    boundsWidth: '253'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      6ac3f707: {elementObjectId: e0922920, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 55e44e50}
+      0626de33: {elementObjectId: 6a0a2899, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 840bc38b}
+  55e44e50: {elementObjectId: 6f371b62, fillColour: null, font: null, fontColour: null,
+    boundsX: '343', boundsY: '210', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  840bc38b: {elementObjectId: 2b154a15, fillColour: null, font: null, fontColour: null,
+    boundsX: '476', boundsY: '210', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  '103e2946':
+    elementObjectId: b23ec608
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '343'
+    boundsY: '301'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      edc5e630: {elementObjectId: a336625a, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 55e44e50}
+  4e57c93a:
+    elementObjectId: 5939cf7f
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '476'
+    boundsY: '301'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      7b2c48b9: {elementObjectId: f7d1b65c, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 840bc38b}
+diagramSpecificElements: {}
+name: Service Composition
+documentation: ''
+folderPath: Front Arena
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

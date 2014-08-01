@@ -1,0 +1,311 @@
+id: d7184387
+diagramElements:
+  88f16f45:
+    elementObjectId: 5829ac4f
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '455'
+    boundsY: '224'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      3701d022:
+        elementObjectId: 8ce9ba2f
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: dfc5bfe8
+        bendpointList:
+        - {bendpointStartX: '45', bendpointEndY: '148', bendpointEndX: '-221', bendbointStartY: '-48'}
+        - {bendpointStartX: '143', bendpointEndY: '148', bendpointEndX: '-123', bendbointStartY: '-48'}
+        - {bendpointStartX: '143', bendpointEndY: '50', bendpointEndX: '-123', bendbointStartY: '-146'}
+        - {bendpointStartX: '262', bendpointEndY: '50', bendpointEndX: '-4', bendbointStartY: '-146'}
+      0faf607a: {elementObjectId: 2cb6f17a, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '0', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: e3277ba8}
+      7d1f0f84:
+        elementObjectId: 6ce2387b
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: 47f872ba
+        bendpointList:
+        - {bendpointStartX: '129', bendpointEndY: '8', bendpointEndX: '-137', bendbointStartY: '8'}
+      712770fb:
+        elementObjectId: '1730e970'
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: af78b3a0
+        bendpointList:
+        - {bendpointStartX: '192', bendpointEndY: '82', bendpointEndX: '-74', bendbointStartY: '-13'}
+        - {bendpointStartX: '192', bendpointEndY: '47', bendpointEndX: '-74', bendbointStartY: '-48'}
+        - {bendpointStartX: '262', bendpointEndY: '47', bendpointEndX: '-4', bendbointStartY: '-48'}
+  886e039e:
+    elementObjectId: 7a882cab
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '49'
+    boundsY: '129'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      2e9f9c18:
+        elementObjectId: 0c4f083d
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '1'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: 2c3e081d
+        bendpointList:
+        - {bendpointStartX: '171', bendpointEndY: '106', bendpointEndX: '-32', bendbointStartY: '5'}
+  2c3e081d:
+    elementObjectId: c02c7693
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '252'
+    boundsY: '28'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      0cb83d08: {elementObjectId: b79d7b0a, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: e3277ba8}
+      7e48dc65:
+        elementObjectId: '93269885'
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: 88f16f45
+        bendpointList:
+        - {bendpointStartX: '24', bendpointEndY: '-13', bendpointEndX: '-179', bendbointStartY: '183'}
+  510f0a43:
+    elementObjectId: a7a22a2a
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '49'
+    boundsY: '28'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      9efcd58e: {elementObjectId: f347219f, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 2c3e081d}
+  11b44f3a:
+    elementObjectId: 01f16a87
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '49'
+    boundsY: '224'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      1d731596:
+        elementObjectId: 5db70f56
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: 88f16f45
+        bendpointList:
+        - {bendpointStartX: '199', bendpointEndY: '8', bendpointEndX: '-207', bendbointStartY: '8'}
+      9144336b: {elementObjectId: dc21b344, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '0', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 886e039e}
+      3f8c851c:
+        elementObjectId: e44fca47
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '0'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: 2c3e081d
+        bendpointList:
+        - {bendpointStartX: '199', bendpointEndY: '183', bendpointEndX: '-4', bendbointStartY: '-13'}
+  e3277ba8:
+    elementObjectId: c300aba3
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '455'
+    boundsY: '28'
+    boundsWidth: '120'
+    boundsHeight: '156'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      e169d514:
+        elementObjectId: 974971d0
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '1'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: dfc5bfe8
+        bendpointList:
+        - {bendpointStartX: '95', bendpointEndY: '-13', bendpointEndX: '-95', bendbointStartY: '-52'}
+      b0291a34:
+        elementObjectId: c3445213
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '1'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: af78b3a0
+        bendpointList:
+        - {bendpointStartX: '95', bendpointEndY: '-13', bendpointEndX: '-95', bendbointStartY: '25'}
+  47f872ba: {elementObjectId: dd05dfb0, fillColour: null, font: null, fontColour: null,
+    boundsX: '721', boundsY: '224', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  af78b3a0:
+    elementObjectId: f5e89e53
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '721'
+    boundsY: '129'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      a134e48b:
+        elementObjectId: 20bdafa4
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '1'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: e3277ba8
+        bendpointList:
+        - {bendpointStartX: '-102', bendpointEndY: '46', bendpointEndX: '88', bendbointStartY: '8'}
+  dfc5bfe8:
+    elementObjectId: ffbafe2d
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '721'
+    boundsY: '28'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      6bd4b056:
+        elementObjectId: 7eecc089
+        font: null
+        fontColour: null
+        textAlignment: '0'
+        textPosition: '1'
+        connectionColour: null
+        connectionWidth: '1'
+        diagramConnectionType: DiagramModelArchimateConnection
+        diagramConnectionTarget: e3277ba8
+        bendpointList:
+        - {bendpointStartX: '-102', bendpointEndY: '-31', bendpointEndX: '88', bendbointStartY: '8'}
+diagramSpecificElements:
+  066a7ce5: {fillColour: null, font: null, fontColour: null, boundsX: '182', boundsY: '28',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '3'}
+  286b2813: {fillColour: null, font: null, fontColour: null, boundsX: '182', boundsY: '129',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '1'}
+  7d321908: {fillColour: null, font: null, fontColour: null, boundsX: '182', boundsY: '210',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '5'}
+  fa9645e4: {fillColour: null, font: null, fontColour: null, boundsX: '182', boundsY: '273',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '4'}
+  8afa595f: {fillColour: null, font: null, fontColour: null, boundsX: '385', boundsY: '210',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '6'}
+  5fd1fe44: {fillColour: null, font: null, fontColour: null, boundsX: '385', boundsY: '28',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '7'}
+  8e813a2c: {fillColour: null, font: null, fontColour: null, boundsX: '581', boundsY: '273',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '8'}
+  04e4c68e: {fillColour: null, font: null, fontColour: null, boundsX: '469', boundsY: '192',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '11'}
+  ef55c792: {fillColour: null, font: null, fontColour: null, boundsX: '581', boundsY: '21',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '12'}
+  c3765997: {fillColour: null, font: null, fontColour: null, boundsX: '581', boundsY: '77',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '13'}
+  45f638c2: {fillColour: null, font: null, fontColour: null, boundsX: '791', boundsY: '93',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '10'}
+  4b75e2c0: {fillColour: null, font: null, fontColour: null, boundsX: '791', boundsY: '192',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '9'}
+  0109b68c: {fillColour: null, font: null, fontColour: null, boundsX: '581', boundsY: '105',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '14'}
+  c79e3f39: {fillColour: null, font: null, fontColour: null, boundsX: '581', boundsY: '168',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '15'}
+  35d0a526: {fillColour: null, font: null, fontColour: null, boundsX: '119', boundsY: '192',
+    boundsWidth: '39', boundsHeight: '25', textAlignment: '1', textPosition: '0',
+    objectName: '', objectType: DiagramModelNote, objectDocumentation: '2'}
+name: Solution Flow
+documentation: ''
+folderPath: ''
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel
