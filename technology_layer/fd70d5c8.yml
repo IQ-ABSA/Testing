@@ -1,0 +1,8 @@
+id: fd70d5c8
+name: Pgosap4a/10.6.20.38
+documentation: ''
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Gloucester}
+type: technology
+elementType: Device

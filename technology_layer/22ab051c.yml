@@ -1,0 +1,8 @@
+id: 22ab051c
+name: Pgosap5a/10.6.20.33
+documentation: ''
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Slough}
+type: technology
+elementType: Device

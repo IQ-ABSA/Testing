@@ -1,0 +1,8 @@
+id: 473f0bef
+name: PSAP
+documentation: 31.112.6.95
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Slough}
+type: technology
+elementType: Device

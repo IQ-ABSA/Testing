@@ -1,0 +1,8 @@
+id: 6950849b
+name: mq2p
+documentation: /35.101.11.221
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Slough}
+type: technology
+elementType: Device

@@ -1,0 +1,93 @@
+id: 4b610d1e
+diagramElements:
+  4aa37b43: {elementObjectId: 377808b0, fillColour: null, font: null, fontColour: null,
+    boundsX: '689', boundsY: '230', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '1'}
+  10c8961b:
+    elementObjectId: 252b4553
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '4'
+    boundsY: '230'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      458243f3: {elementObjectId: 67e91f72, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 1ecd626c}
+  1ecd626c:
+    elementObjectId: 424ba372
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '202'
+    boundsY: '230'
+    boundsWidth: '432'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      f06bc1ee: {elementObjectId: ca563808, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 4aa37b43}
+      4da4ba97: {elementObjectId: '13e09771', font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: f2265e4c}
+      d5c5f9f9: {elementObjectId: eb75181d, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 1de40934}
+  0243d7d9: {elementObjectId: '94098005', fillColour: null, font: null, fontColour: null,
+    boundsX: '203', boundsY: '66', boundsWidth: '239', boundsHeight: '51', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  c56a0d02: {elementObjectId: fb936259, fillColour: null, font: null, fontColour: null,
+    boundsX: '446', boundsY: '67', boundsWidth: '184', boundsHeight: '50', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  1de40934:
+    elementObjectId: d6f9308c
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '200'
+    boundsY: '152'
+    boundsWidth: '236'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      3b85a0cc: {elementObjectId: 20b2dffc, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 0243d7d9}
+  f2265e4c:
+    elementObjectId: 2f3772a9
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '447'
+    boundsY: '153'
+    boundsWidth: '184'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      cfaf953c: {elementObjectId: 22bbe1f5, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c56a0d02}
+diagramSpecificElements:
+  c77ca39c: {fillColour: null, font: null, fontColour: null, boundsX: '6', boundsY: '67',
+    boundsWidth: '189', boundsHeight: '53', textAlignment: '2', textPosition: '0',
+    objectName: DF - SIRESS Routing  - STARSMS to Meridian PI, objectType: DiagramModelReference,
+    diagramReferenceId: 281b1a7c}
+name: Application DataFlow :Level 2 - 2.2 STARSMS - Meridian
+documentation: ''
+folderPath: Application Data Flow  Level 2
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

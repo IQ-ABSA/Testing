@@ -1,0 +1,8 @@
+id: 2171279d
+name: Castor ( 22.112.4.22,22.112.5.22 )
+documentation: ''
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Slough}
+type: technology
+elementType: Device

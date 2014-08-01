@@ -1,0 +1,8 @@
+id: f28afd38
+name: 'Pollux (35.100.63.9,35.100.36.208 ) '
+documentation: ''
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Gloucester}
+type: technology
+elementType: Device

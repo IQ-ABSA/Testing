@@ -1,0 +1,122 @@
+id: a78dee80
+diagramElements:
+  2d7fc4c0: {elementObjectId: fb936259, fillColour: null, font: null, fontColour: null,
+    boundsX: '317', boundsY: '88', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  6651d8f7: {elementObjectId: '94098005', fillColour: null, font: null, fontColour: null,
+    boundsX: '499', boundsY: '84', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  c4ea7b03:
+    elementObjectId: d6f9308c
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '498'
+    boundsY: '174'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      342c2b67: {elementObjectId: 20b2dffc, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 6651d8f7}
+  ce02969c:
+    elementObjectId: 2f3772a9
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '324'
+    boundsY: '168'
+    boundsWidth: '-1'
+    boundsHeight: '-1'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      '284532e7': {elementObjectId: 22bbe1f5, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 2d7fc4c0}
+  6fb5813b:
+    elementObjectId: 252b4553
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '67'
+    boundsY: '224'
+    boundsWidth: '172'
+    boundsHeight: '97'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      '3e537578': {elementObjectId: fd9cef09, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: 54cee8cc}
+  54cee8cc:
+    elementObjectId: 9bae0a4b
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '22'
+    boundsY: '32'
+    boundsWidth: '131'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    parentElementId: 6fb5813b
+    sourceRelationshipIds:
+      '32916041': {elementObjectId: aaef57cf, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: f79bc0ff}
+  4a58ede1:
+    elementObjectId: 7fa5d3df
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '899'
+    boundsY: '216'
+    boundsWidth: '195'
+    boundsHeight: '106'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '1'
+    sourceRelationshipIds:
+      c98d3509: {elementObjectId: 4fd8d4a1, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: caf3b3ae}
+  caf3b3ae: {elementObjectId: bd5b3ef7, fillColour: null, font: null, fontColour: null,
+    boundsX: '27', boundsY: '41', boundsWidth: '-1', boundsHeight: '-1', textAlignment: '2',
+    textPosition: '0', representationType: '0', parentElementId: 4a58ede1}
+  f79bc0ff:
+    elementObjectId: 2b481008
+    fillColour: null
+    font: null
+    fontColour: null
+    boundsX: '266'
+    boundsY: '267'
+    boundsWidth: '593'
+    boundsHeight: '55'
+    textAlignment: '2'
+    textPosition: '0'
+    representationType: '0'
+    sourceRelationshipIds:
+      7f425afe: {elementObjectId: dff16176, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: c4ea7b03}
+      e96156f4: {elementObjectId: 96804eb0, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: ce02969c}
+      4bb8f9c3: {elementObjectId: b4112e7c, font: null, fontColour: null, textAlignment: '0',
+        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
+        diagramConnectionTarget: caf3b3ae}
+diagramSpecificElements: {}
+name: Application DataFlow :Level 2 - 1.3 STARSMS - SIRESS
+documentation: ''
+folderPath: Application Data Flow  Level 2
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

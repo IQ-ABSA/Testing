@@ -1,0 +1,10 @@
+id: 1ce23169
+diagramElements: {}
+diagramSpecificElements: {}
+name: Payment Straight Through Processing
+documentation: ''
+folderPath: Application Functional Realisation Views
+diagramFeatures: {connectionRouterType: '0'}
+properties: []
+type: diagrams
+elementType: ArchimateDiagramModel

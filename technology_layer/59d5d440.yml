@@ -1,0 +1,8 @@
+id: 59d5d440
+name: mqprod.absa.co.za/158.1.201.73
+documentation: ''
+folderPath: ''
+properties:
+- !!com.archimatetool.model.impl.Property {key: Location, value: Slough}
+type: technology
+elementType: Device
