@@ -62,38 +62,12 @@ diagramElements:
   e34eccf7: {elementObjectId: b71da235, fillColour: null, font: null, fontColour: null,
     boundsX: '295', boundsY: '25', boundsWidth: '646', boundsHeight: '55', textAlignment: '2',
     textPosition: '0', representationType: '0'}
-  05be73e5:
-    elementObjectId: 1e94be8a
-    fillColour: null
-    font: null
-    fontColour: null
-    boundsX: '304'
-    boundsY: '105'
-    boundsWidth: '97'
-    boundsHeight: '55'
-    textAlignment: '2'
-    textPosition: '0'
-    representationType: '0'
-    sourceRelationshipIds:
-      e0ad1d8e: {elementObjectId: 6b269c0e, font: null, fontColour: null, textAlignment: '0',
-        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
-        diagramConnectionTarget: e34eccf7}
-  b013d599:
-    elementObjectId: dbf8b24c
-    fillColour: null
-    font: null
-    fontColour: null
-    boundsX: '407'
-    boundsY: '105'
-    boundsWidth: '97'
-    boundsHeight: '55'
-    textAlignment: '2'
-    textPosition: '0'
-    representationType: '0'
-    sourceRelationshipIds:
-      16cd9a13: {elementObjectId: 3a3f732c, font: null, fontColour: null, textAlignment: '0',
-        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
-        diagramConnectionTarget: e34eccf7}
+  05be73e5: {elementObjectId: 1e94be8a, fillColour: null, font: null, fontColour: null,
+    boundsX: '304', boundsY: '105', boundsWidth: '97', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
+  b013d599: {elementObjectId: dbf8b24c, fillColour: null, font: null, fontColour: null,
+    boundsX: '407', boundsY: '105', boundsWidth: '97', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
   290d45b8:
     elementObjectId: 451b20d2
     fillColour: null
@@ -158,22 +132,9 @@ diagramElements:
       8b2180b7: {elementObjectId: '50e36296', font: null, fontColour: null, textAlignment: '0',
         textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
         diagramConnectionTarget: e34eccf7}
-  e40d2dfa:
-    elementObjectId: 0153fb0e
-    fillColour: null
-    font: null
-    fontColour: null
-    boundsX: '611'
-    boundsY: '105'
-    boundsWidth: '113'
-    boundsHeight: '55'
-    textAlignment: '2'
-    textPosition: '0'
-    representationType: '0'
-    sourceRelationshipIds:
-      29e1fcf8: {elementObjectId: e393c52d, font: null, fontColour: null, textAlignment: '0',
-        textPosition: '1', connectionColour: null, connectionWidth: '1', diagramConnectionType: DiagramModelArchimateConnection,
-        diagramConnectionTarget: e34eccf7}
+  e40d2dfa: {elementObjectId: 0153fb0e, fillColour: null, font: null, fontColour: null,
+    boundsX: '611', boundsY: '105', boundsWidth: '113', boundsHeight: '55', textAlignment: '2',
+    textPosition: '0', representationType: '0'}
 diagramSpecificElements: {}
 name: Application DataFlow :Level 2 - 3.2 STARSMS - Meridian
 documentation: ''
